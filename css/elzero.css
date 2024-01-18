@@ -1160,6 +1160,10 @@ ul {
   color: white;
   text-decoration: underline;
 }
+.footer .copyright span{
+  color: white;
+  padding-left: 3px;
+}
 /* End Footer */
 
 /* Start Up-btn */
